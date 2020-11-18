@@ -4,4 +4,6 @@ class CashRegister
     @total = zero
   end
 
+
+
 end
